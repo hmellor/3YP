@@ -4,7 +4,7 @@
 
 This repository is the top level repository for our 3rd year group project. The submodules are as follows:
 * [code](https://github.com/HMellor/3YP_code) - The code written as part of a coding challenge for monocular depth estimation, an asside relevant to the subject of the report.
-* [report](https://github.com/HMellor/4YP_report) - The writeup of the project.
+* [report](https://github.com/HMellor/3YP_report) - The writeup of the project.
 
 The purpose of this project is to design an augmented reality device that will be incorporated into office spaces to improve productivity, collaboration and health.
 
